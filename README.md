@@ -1,5 +1,13 @@
 <div id="header" align="center">
-  <img src="https://sdk.bitmoji.com/render/panel/20082977-100121694258_2-s5-v1.png?transparent=1&palette=1&scale=2" width=150 />
+  <img src="https://sdk.bitmoji.com/render/panel/20054902-100121694258_2-s5-v1.png?transparent=1&palette=1&scale=2" width=400 />
+</div>
+
+<div id="hey" align="center">
+  <h1>
+    Hi!
+    I'm Tijan
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
+  </h1>
 </div>
 
 <div id="badges" align="center">
@@ -19,18 +27,6 @@
 
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=0xTijan&style=flat-square&color=blue" alt="Profiel Views"/>
-</div>
-
-<div id="hey" align="center">
-  <h1>
-    Hi!
-    I'm Tijan
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
-  </h1>
-</div>
-
-<div id="second-image" align="center">
-  <img src="https://sdk.bitmoji.com/render/panel/20054902-100121694258_2-s5-v1.png?transparent=1&palette=1&scale=2" width=400 />
 </div>
 
 
